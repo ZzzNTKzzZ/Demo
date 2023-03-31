@@ -45,7 +45,7 @@ const app ={
           {
             name: "Bồ em",
             singer: "dinh",
-            path:"./song/BoEm-DINH-6820879.mp3",
+            path:"./songy2mate.com - vietsub Đâu đâu cũng là em YoungCaptain 哪里都是你 YoungCaptain.mp3",
             image: "https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/338791999_884261335999323_802754814794031653_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=amRNsRYYZDMAX_KWUR2&_nc_ht=scontent.fdad4-1.fna&oh=03_AdTgT1XMLSaWTjQnexuhgShDgao-tlfvFdUZ7NNVy1xM4Q&oe=644E9940"
           },
           {
