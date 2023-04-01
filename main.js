@@ -49,10 +49,10 @@ const app ={
             image: "https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/338791999_884261335999323_802754814794031653_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=amRNsRYYZDMAX_KWUR2&_nc_ht=scontent.fdad4-1.fna&oh=03_AdTgT1XMLSaWTjQnexuhgShDgao-tlfvFdUZ7NNVy1xM4Q&oe=644E9940"
           },
          {
-            name: "不知所措/Không biết phải làm sao ",
+             name: "不知所措/Không biết phải làm sao ",
             singer: "Vương Tĩnh Văn Không Mập 王靖雯不胖",
-            path:"./song/y2mate.com - Vietsub pinyin Không biết phải làm sao 不知所措 Vương Tĩnh Văn Không Mập 王靖雯不胖 TikTok.mp3",
-            image: "https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/339071965_935712427627903_7919586937813927304_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=MbKIFQF3YPYAX_nTnfM&_nc_ht=scontent.fdad4-1.fna&oh=03_AdT47tCiXtdDuoP5fAO6-v6L9KxEu_NKZ63Kqeao6tRABg&oe=644FCBA4"
+            path:"./song/Khoong biết phải làm sao.mp3",
+            image:"https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/339071965_935712427627903_7919586937813927304_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=MbKIFQF3YPYAX_nTnfM&_nc_ht=scontent.fdad4-1.fna&oh=03_AdT47tCiXtdDuoP5fAO6-v6L9KxEu_NKZ63Kqeao6tRABg&oe=644FCBA4"
           },
           {
             name: "ky niem",
