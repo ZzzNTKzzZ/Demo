@@ -52,7 +52,7 @@ const app ={
              name: "不知所措/Không biết phải làm sao ",
             singer: "Vương Tĩnh Văn Không Mập 王靖雯不胖",
             path:"./song/Khoong biết phải làm sao.mp3",
-            image:"https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/339071965_935712427627903_7919586937813927304_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=MbKIFQF3YPYAX_nTnfM&_nc_ht=scontent.fdad4-1.fna&oh=03_AdT47tCiXtdDuoP5fAO6-v6L9KxEu_NKZ63Kqeao6tRABg&oe=644FCBA4"
+            image:"https://scontent.fdad4-1.fna.fbcdn.net/v/t1.15752-9/329936802_525066459702752_2158432727192230491_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=j8I18SDY6CMAX8arWA8&_nc_ht=scontent.fdad4-1.fna&oh=03_AdQ6PxDWtFUVQ0sZL60AImF8sHqIziJPN8lh1ZD3b3KFgQ&oe=64500509"
           },
           {
             name: "ky niem",
